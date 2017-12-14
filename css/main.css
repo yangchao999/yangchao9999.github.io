@@ -472,6 +472,8 @@ body {
     outline: none;
     border:1px solid #f1bee3;
     border-radius: 5px;
+    position: absolute;
+    left: 10%;
 }
 .six-center p{
     height: 100%;
