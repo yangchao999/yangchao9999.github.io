@@ -468,23 +468,26 @@ body {
     position: absolute;
 }
 .six-center input[type="text"]{
-    width: 73%;
-    height: 100%;
+    width: 63%;
+    height: 10%;
     padding-left: 2%;
     outline: none;
-    border:1px solid #f1bee3;
+    border: 1px solid #f1bee3;
     border-radius: 5px;
-    position: absolute;
     left: 10%;
+    margin-top: 5%;
 }
 .six-center p{
     height: 100%;
     margin-top: 0;
 }
 .six-center input[type="submit"]{
-    width: 75%;
-    height: 100%;
+    width: 72%;
+    height: 9%;
     background: #8edefe;
-    border:none;
+    border: none;
     color: #ffffff;
+    position: absolute;
+    top: 70%;
+    left:12%
 }
